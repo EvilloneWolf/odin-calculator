@@ -21,4 +21,5 @@ The Calculator Project is a simple web-based calculator that allows users to per
 - HTML
 - CSS
 - JavaScript
+
 Live preview: https://evillonewolf.github.io/odin-calculator/
